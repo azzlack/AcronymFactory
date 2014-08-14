@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>AcronymFactory</id>
+    <version>1.0.0</version>
+    <title>Acronym Factory</title>
+    <authors>Ove Andersen</authors>
+    <owners>EyeCatch</owners>
+    <licenseUrl>http://www.eyecatch.no/licenses/apache-20/</licenseUrl>
+    <projectUrl>https://github.com/azzlack/AcronymFactory</projectUrl>
+    <iconUrl>http://www.eyecatch.no/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A helper class for generating acronyms. Useful for generating string IDs for named entities.</description>
+    <summary>A helper class for generating acronyms. Useful for generating string IDs for named entities.</summary>
+	<releaseNotes></releaseNotes>
+    <copyright>Copyright EyeCatch 2014</copyright>
+    <language>en-US</language>
+    <tags>id generation acronym readable portable eyecatch</tags>
+  </metadata>
+</package>
